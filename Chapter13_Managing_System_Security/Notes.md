@@ -112,11 +112,6 @@
 
 ---
 
-### ✅ This now matches *exactly* what you did for 13.4, and everything is structurally perfect for navigation.
-
-If you want, I can also rebuild the **top-level TOC** with these corrected blocks in place.
-
-Ready for **13.4.3 Application and Software Security** whenever you are.
 
 
 
@@ -5558,3 +5553,4 @@ try these
 * A **class-ready response essay** formatted for submission
 
 
+**Nav:** [Back Home](#chapter-introduction)
